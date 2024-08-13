@@ -1,6 +1,4 @@
-#### Microservices Design Patterns:
 
-```bash
 Aggregator
 API Gateway
 Chained or Chain of Responsibility
@@ -11,6 +9,4 @@ Branch
 Command Query Responsibility Segregator
 Circuit Breaker
 Decomposition
-```
 
----
